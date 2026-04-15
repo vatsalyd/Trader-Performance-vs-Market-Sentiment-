@@ -68,7 +68,7 @@ When the index exceeds 60, frequent traders should reduce trade count by ~25% an
 ## Repository Structure
 
 ```
-├── primetrade_analysis.ipynb   # Main notebook (fully executed)
+├── assignment.ipynb   # Main notebook (fully executed)
 ├── fear_greed_index.csv        # Sentiment dataset
 ├── historical_data.csv         # Trader dataset
 └── README.md
